@@ -1,0 +1,4 @@
+interface:
+  display_name: "APINebula Image"
+  short_description: "Call APINebula GPT Image 2 generation and edits. Auto mode currently uses the default model for all sizes."
+  default_prompt: "Use $apinebula-image to generate or edit an image through APINebula GPT Image 2. Pass width and height; auto mode currently sends all sizes through gpt-image-2."
